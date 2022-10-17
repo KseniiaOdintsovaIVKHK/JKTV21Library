@@ -1,0 +1,9 @@
+managers\BookManager.class
+managers\ReaderManager.class
+com\mycompany\jktv21library\App.class
+entity\Author.class
+entity\Book.class
+managers\HistoryManager.class
+com\mycompany\jktv21library\JKTV21Library.class
+entity\Reader.class
+entity\History.class
